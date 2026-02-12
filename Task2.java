@@ -10,8 +10,9 @@ class Book{
         }
     }
     void display(){
-        System.out.println("the book details and page number is display in bellow "+pageNum);
+        System.out.println("the book details and page number is display in bellow ");
     }
+
 }
 
 public class Task2 {
